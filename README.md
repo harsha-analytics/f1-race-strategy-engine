@@ -27,3 +27,8 @@ STAY OUT (LOW) | Advantage: -0.16 | Recovery: inf
 ## Author
 Harsha
 
+## How to Run
+1. Install dependencies:
+   pip install streamlit
+2. Run the app:
+   python -m streamlit run app.py
